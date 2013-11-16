@@ -8,5 +8,3 @@ The basic assumption is that estimation at the task level happens for the coding
 You can see instructions for using the system in the wiki
 
 https://github.com/zyxware/project-estimation-tool/wiki
-
-Currently the system is only really in a form that is usable by people who can read and understand formulas used in spreadsheets. Others will be able to use it but their ability to tweak the system to their workflow will be limited. Hopefully with more people starting to use the template and with better documentation the system will be usable for people without deeper understanding about spreadsheets. But to think of it, project managers should really be able to juggle with spreadsheet formulas :-)
